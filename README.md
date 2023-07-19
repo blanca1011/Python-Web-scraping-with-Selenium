@@ -7,3 +7,5 @@
 **ModuleNotFoundError**
 [Solution](https://stackoverflow.com/questions/63421086/modulenotfounderror-no-module-named-webdriver-manager-error-even-after-instal)
 
+**Unable to Locate Driver Error**
+Solution
