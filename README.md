@@ -16,3 +16,8 @@
     ```>>> selenium.__version__``` <br>
     ```'4.10.0'```
 3. Read the docs to [use Selenium 4 with Chrome](https://pypi.org/project/webdriver-manager/)
+
+## Python Tools
+* matplotlib
+* pandas
+* selenium
