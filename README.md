@@ -12,6 +12,6 @@
 1. Read the [Selenium documentation](https://www.selenium.dev/documentation/webdriver/troubleshooting/errors/driver_location/) <br>
 2. Check the version of installed Selenium through terminal <br>
     ```>>> python3``` <br>
-    >>> import selenium <br>
-    >>> selenium.__version__ <br>
+    ```>>> import selenium``` <br>
+    ```>>> selenium.__version__``` <br>
 3. Read the docs to [use Selenium 4 with Chrome](https://pypi.org/project/webdriver-manager/)
