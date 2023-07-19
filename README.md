@@ -1,3 +1,3 @@
 # Python-Web-scraping-with-Selenium
 
-[Python Web-scraping with Selenium | Witcher project ep. #1]([https://www.youtube.com/watch?v=RuNolAh_4bU])
+[Python Web-scraping with Selenium vs Scrapy vs BeautifulSoup | Witcher project ep. #1](https://www.youtube.com/watch?v=RuNolAh_4bU)
