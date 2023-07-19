@@ -4,8 +4,8 @@
 
 ## Troubleshooting
 
-**ModuleNotFoundError**
+**ModuleNotFoundError** <br>
 [Solution](https://stackoverflow.com/questions/63421086/modulenotfounderror-no-module-named-webdriver-manager-error-even-after-instal)
 
-**Unable to Locate Driver Error**
+**Unable to Locate Driver Error**  <br>
 Solution
