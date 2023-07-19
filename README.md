@@ -14,4 +14,5 @@
     ```witcher_project % python3``` <br>
     ```>>> import selenium``` <br>
     ```>>> selenium.__version__``` <br>
+    ```'4.10.0'```
 3. Read the docs to [use Selenium 4 with Chrome](https://pypi.org/project/webdriver-manager/)
