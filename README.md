@@ -5,7 +5,7 @@
 ## Troubleshooting
 
 **ModuleNotFoundError** <br>
-Solution: install like this - 
+Install like the following
 [pip install webdriver_manager](https://stackoverflow.com/questions/63421086/modulenotfounderror-no-module-named-webdriver-manager-error-even-after-instal)
 
 **Unable to Locate Driver Error**  <br>
